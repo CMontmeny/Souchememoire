@@ -16,13 +16,13 @@ layout: default
   <ul>
     <li>🌿 <strong>Textes</strong> — réflexions absurdes et sylvicoles</li>
     <li>🪵 <strong>Sculptures</strong> — bois travaillés à la main, récits figés</li>
+    <li>[🪵 Voir les sculptures](sculptures.md)</li>
     <li>🎧 <strong>Sons</strong> — fragments audio entre nature et folie douce</li>
     <li>📘 <strong>Notes de terrain intérieures</strong> — journal poético-écologique</li>
   </ul>
 
   <h2>À propos</h2>
   <p>Charles Montmeny-Huot, alias Bobby Blue. Étudiant en foresterie, rêveur lucide, archiviste de l’absurde. Ce site est un prolongement de mes carnets et de mes élans créatifs.</p>
-  <li><a href="/sculptures">🪵 Voir les sculptures</a></li>
 
   <footer style="margin-top: 3rem; font-size: 0.9rem; text-align: center;">
     <p>🌱 Fait avec amour</p>
