@@ -16,7 +16,7 @@ layout: default
   <ul>
     <li>🌿 <strong>Textes</strong> — réflexions absurdes et sylvicoles</li>
     <li>🪵 <strong>Sculptures</strong> — bois travaillés à la main, récits figés</li>
-    <li>[🪵 Voir les sculptures](sculptures.md)</li>
+    <li>[🪵 Voir les sculptures]({% link sculptures.md %})</li>
     <li>🎧 <strong>Sons</strong> — fragments audio entre nature et folie douce</li>
     <li>📘 <strong>Notes de terrain intérieures</strong> — journal poético-écologique</li>
   </ul>
