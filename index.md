@@ -22,6 +22,7 @@ layout: default
 
   <h2>À propos</h2>
   <p>Charles Montmeny-Huot, alias Bobby Blue. Étudiant en foresterie, rêveur lucide, archiviste de l’absurde. Ce site est un prolongement de mes carnets et de mes élans créatifs.</p>
+  <li><a href="sculptures.md">🪵 Voir les sculptures</a></li>
 
   <footer style="margin-top: 3rem; font-size: 0.9rem; text-align: center;">
     <p>🌱 Fait avec amour</p>
