@@ -1,3 +1,5 @@
-# _config.yml
-
-title: "Souche Mémoire"
+title: Souche Mémoire
+baseurl: ""  # vide si site à la racine (GitHub Pages perso), sinon "/nom-du-repo"
+url: ""       # à compléter si tu publies en ligne
+markdown: kramdown
+theme: minima
